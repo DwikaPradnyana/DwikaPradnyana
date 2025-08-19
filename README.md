@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa Informatika** di Universitas Udayana.<br>
  
 Saya memiliki ketertarikan dalam Web Development dan Game Development.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/i-kadek-dwika-pradnyana-4169a1289/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/i-kadek-dwika-pradnyana-4169a1289/) saya.
  
 ### Github Statistic
 <p align="left">
